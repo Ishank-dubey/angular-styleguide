@@ -6,7 +6,7 @@ There are multiple versions of Angular, and thus there are multiple versions of 
 ### Angular 1 Style Guide
 [The Angular 1 Style Guide](https://github.com/johnpapa/angular-styleguide/tree/master/a1/README.md).
 
-### Angular 2 Style Guide
+### Angular 2 Style Guide--
 [The Angular 2 Style Guide](https://github.com/johnpapa/angular-styleguide/tree/master/a2/README.md).
 
 ## Angular Team Endorsed
